@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on a company team
 - 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/juliano-caetano/) or Email: julianofcaetano@gmail.com
 
-<a href="https://github.com/diogodeas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogodeas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogodeas&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/julianoferrrone12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianoferrone12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoferrone12&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!---
